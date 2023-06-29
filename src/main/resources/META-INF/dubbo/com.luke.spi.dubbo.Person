@@ -1,0 +1,2 @@
+teacher=com.luke.spi.dubbo.Teacher
+cooker=com.luke.spi.dubbo.Cooker
