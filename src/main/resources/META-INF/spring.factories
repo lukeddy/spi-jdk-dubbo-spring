@@ -1,1 +1,3 @@
 com.luke.spi.spring.Tree=com.luke.spi.spring.AppleTree,com.luke.spi.spring.OrangeTree
+
+com.luke.spi.spring2.Book=com.luke.spi.spring2.EnglishBook,com.luke.spi.spring2.MusicBook
